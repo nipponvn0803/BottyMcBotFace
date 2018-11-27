@@ -1,0 +1,18 @@
+{
+    "name": "Botty",
+    "version": "1.0.0",
+    "description": "Building my own Vegas",
+    "main": "bot.js",
+    "author": "Elpis",
+    "repository": {},
+    "dependencies": {
+        "discord-youtube-api": "^0.1.0",
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "discord.js": "^11.4.2",
+        "ffmpeg-binaries": "^4.0.0",
+        "opusscript": "0.0.6",
+        "winston": "^3.1.0",
+        "youtube-search": "^1.1.3",
+        "ytdl-core": "^0.28.0"
+    }
+}
