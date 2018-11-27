@@ -6,7 +6,7 @@
     "author": "Elpis",
     "engines" : { 
         "node" : ">=0.12" 
-    }
+    },
     "repository": {},
     "dependencies": {
         "discord-youtube-api": "^0.1.0",
