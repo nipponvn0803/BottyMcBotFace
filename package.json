@@ -5,6 +5,9 @@
     "main": "bot.js",
     "author": "Elpis",
     "repository": {},
+    "scripts": {
+        "start": "node bot.js"
+      },
     "dependencies": {
         "discord-youtube-api": "^0.1.0",
         "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
