@@ -80,4 +80,4 @@ client.on('message', message => {
   
 });
 
-client.login('NTE1ODY1MTcxNTU4NjYyMTYy.DtsRWQ.pczVYOJmXlu5z3DVLw54kjlFVVE');
+client.login('token');
